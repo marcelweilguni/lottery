@@ -7,3 +7,11 @@ public String RenesLeben(){
 	}
 
 }
+<<<<<<< HEAD
+=======
+
+public String StefanSniperPro(){
+	while(Stefan.kills == 0){
+	System.out.println("Schlecht !!");
+	}
+>>>>>>> 5799d8a5040426548ea81077f62dfd90ec865ba1
