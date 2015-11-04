@@ -6,3 +6,8 @@ public String RenesLeben(){
 	}
 
 }
+
+public String StefanSniperPro(){
+	while(Stefan.kills == 0){
+	System.out.println("Schlecht !!");
+	}
