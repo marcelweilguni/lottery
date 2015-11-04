@@ -3,7 +3,7 @@
 
 public String RenesLeben(){
 	if (Rene == nicht gut in der Schule){
-		return("Fetzn");
+		return("Fetzen");
 	}
 
 }
