@@ -15,3 +15,9 @@ public String StefanSniperPro(){
 	System.out.println("Schlecht !!");
 	}
 >>>>>>> 5799d8a5040426548ea81077f62dfd90ec865ba1
+
+public String Tsche{
+	if(Johannes.setbacks < Rene.setbacks){
+	System.out.println("Haha bist du bad");
+	}
+}
