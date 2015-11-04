@@ -1,1 +1,8 @@
+#include <stdio.h>
 
+public String RenesLeben(){
+	if (Rene == nicht gut in der Schule){
+		return("Fetzn");
+	}
+
+}
