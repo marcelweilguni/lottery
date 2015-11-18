@@ -25,6 +25,7 @@ public String Tsche{
 
 //Hallo ist nett
 public String Hallo{
+	if(Nett.counter() > 0)
 	System.out.println("Helloooo");
 	}
 }
