@@ -13,13 +13,15 @@ public String RenesLeben(){
 //Rene ist Gott
 //Das Wetter ist schön
 
-public String StefanSniperPro(){
-	while(Stefan.kills == 0){
-	System.out.println("Schlecht !!");
-	}
 
 public String Tsche{
 	if(Johannes.setbacks < Rene.setbacks){
 	System.out.println("Haha bist du bad");
+	}
+
+}
+
+public String Hallo{
+	System.out.println("Helloooo");
 	}
 }
