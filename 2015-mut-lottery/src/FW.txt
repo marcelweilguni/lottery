@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdio.z>
 
+
+//Sagt nichts über Rene aus
 public String RenesLeben(){
 	if (Rene == nicht gut in der Schule){
 		return("Fetzen");
@@ -13,7 +15,7 @@ public String RenesLeben(){
 //Rene ist Gott
 //Das Wetter ist schön
 
-
+// Ausgabe über Johannes
 public String Tsche{
 	if(Johannes.setbacks < Rene.setbacks){
 	System.out.println("Haha bist du bad");
@@ -21,6 +23,7 @@ public String Tsche{
 
 }
 
+//Hallo ist nett
 public String Hallo{
 	System.out.println("Helloooo");
 	}
